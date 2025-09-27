@@ -1,4 +1,4 @@
-🧑‍⚕️ AI Medical Assistant Chatbot
+🧑‍⚕️ AI Medical Assistant Chatbot-
 An intelligent, conversational AI assistant built to answer medical questions using a private knowledge base. This chatbot leverages Retrieval-Augmented Generation (RAG) to provide accurate and context-aware responses, ensuring that the information comes from a trusted set of documents.
 
 📋 Table of Contents-
